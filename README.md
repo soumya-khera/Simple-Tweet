@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http:https://www.dropbox.com/s/z89adyu0ledw9sv/Twitter%20Pt%202.mov?dl=0 title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.dropbox.com/s/z89adyu0ledw9sv/Twitter%20Pt%202.mov?dl=0 title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
